@@ -1,4 +1,4 @@
-imagine writing code by yourself for free for anyone to use, then people hating on it
+i sometimes make neat things for myself and let everyone else use it too
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willjasen)
 
