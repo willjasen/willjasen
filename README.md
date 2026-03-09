@@ -1,6 +1,6 @@
 i sometimes make neat things for myself and let everyone else use it too
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=willjasen)
+![Stats](./profile/stats.svg)
 
 check out my websites!
 
