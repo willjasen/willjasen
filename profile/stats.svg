@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">willjasen's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 332, Total Commits  (last year) : 2321, Total PRs: 283, Total Issues: 60, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 332, Total Commits  (last year) : 2322, Total PRs: 283, Total Issues: 60, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.005118228242125;
+        stroke-dashoffset: 43.004932186815545;
       }
     }
   
