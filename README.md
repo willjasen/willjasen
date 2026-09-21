@@ -1,6 +1,6 @@
 i sometimes make neat things for myself and let everyone else use it too
 
-check out my websites!
+check out my websites! i use an [uptime dashboard](https://uptime.willjasen.com/) to keep track of them being online.
 
 - [main website](https://willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwilljasen.com&label=the%20webz)
 - [school](https://school.willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fschool.willjasen.com&label=digitized%20media%20from%20school%20and%20college)
