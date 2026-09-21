@@ -1,7 +1,5 @@
 i sometimes make neat things for myself and let everyone else use it too
 
-![Stats](./profile/stats.svg)
-
 check out my websites!
 
 - [main website](https://willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwilljasen.com&label=the%20webz)
@@ -15,3 +13,5 @@ check out my websites!
 - [nerdhirn](https://nerdhirn.tech) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnerdhirn.tech&label=🤓%20🧠)
 - [tailmox](https://tailmox.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftailmox.com&label=tailmox)
 - [scummie](https://scummie.netlify.app) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fscummie.netlify.app&label=scummie)
+
+![Stats](./profile/stats.svg)
