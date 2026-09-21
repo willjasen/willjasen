@@ -13,3 +13,5 @@ check out my websites!
 - [themaus.haus](https://themaus.haus) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthemaus.haus&label=meep%20meep)
 - [levitate](https://levitate.willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Flevitate.willjasen.com&label=rise%20to%20the%20challenge)
 - [nerdhirn](https://nerdhirn.tech) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnerdhirn.tech&label=🤓%20🧠)
+- [tailmox](https://tailmox.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftailmox.com&label=tailmox)
+- [scummie](https://scummie.netlify.app) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fscummie.netlify.app&label=scummie)
