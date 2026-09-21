@@ -16,4 +16,4 @@ check out my websites! i use an [uptime dashboard](https://uptime.willjasen.com
 
 GitHub statistics
 
-![Stats](./profile/stats.svg)
+[![Stats](./profile/stats.svg)](https://github.com/willjasen)
