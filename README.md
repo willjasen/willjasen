@@ -15,4 +15,5 @@ check out my websites!
 - [scummie](https://scummie.netlify.app) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fscummie.netlify.app&label=scummie)
 
 GitHub statistics
+
 ![Stats](./profile/stats.svg)
