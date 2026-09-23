@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">willjasen&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 340, Total Commits  (last year) : 2676, Total PRs: 387, Total Issues: 70, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 340, Total Commits  (last year) : 2985, Total PRs: 414, Total Issues: 76, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.24672821051229;
+        stroke-dashoffset: 39.679631646156864;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >2.7k</text>
+      >3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >387</text>
+      >414</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >70</text>
+      >76</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
