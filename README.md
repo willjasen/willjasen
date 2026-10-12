@@ -8,7 +8,6 @@ check out my websites! i use an [uptime dashboard](https://uptime.willjasen.com
 - [my dna](https://dna.willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdna.willjasen.com&label=a's%2C%20c's%2C%20g's%2C%20%26%20t's)
 - [old website](https://old.willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fold.willjasen.com&label=the%20first%20website%20that%20i%20ever%20had)
 - [stretchie](https://stretchie.net) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fstretchie.net&label=i%20got%20a%20package%20for%20ya)
-- [themaus.haus](https://themaus.haus) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthemaus.haus&label=meep%20meep)
 - [levitate](https://levitate.willjasen.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Flevitate.willjasen.com&label=rise%20to%20the%20challenge)
 - [nerdhirn](https://nerdhirn.tech) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnerdhirn.tech&label=🤓%20🧠)
 - [tailmox](https://tailmox.com) -- ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftailmox.com&label=tailmox)
